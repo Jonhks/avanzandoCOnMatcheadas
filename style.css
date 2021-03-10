@@ -1,0 +1,14 @@
+.grilla{
+  position: relative;
+  margin: auto;
+}
+
+.grilla div {
+  position: absolute;
+  font-size: 25px;
+}
+
+.seleccionar{
+  border: solid 2px red;
+  border-radius: 8px;
+}
